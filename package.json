@@ -1,5 +1,5 @@
 {
-  "name": "image-url",
+  "name": "strapi-plugin-image-url",
   "version": "1.0.0",
   "description": "This Strapi plugin for add image url custom fields.",
   "strapi": {
@@ -8,6 +8,8 @@
     "kind": "plugin",
     "displayName": "Image Url"
   },
+  "homepage": "https://github.com/espitman/strapi-image-url",
+  "repository": "espitman/strapi-image-url",
   "dependencies": {
     "@strapi/design-system": "^1.6.3",
     "@strapi/helper-plugin": "^4.6.0",
@@ -27,11 +29,15 @@
     "styled-components": "^5.3.6"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Saeed Heidari",
+    "email": "saeed.heidari86@gmail.com",
+    "url": "https://boum.ir"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Saeed Heidari",
+      "email": "saeed.heidari86@gmail.com",
+      "url": "https://boum.ir"
     }
   ],
   "engines": {
