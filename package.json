@@ -1,10 +1,10 @@
 {
   "name": "image-url",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "This Strapi plugin for add image url custom fields.",
   "strapi": {
     "name": "image-url",
-    "description": "Description of Image Url plugin",
+    "description": "This Strapi plugin for add image url custom fields.",
     "kind": "plugin",
     "displayName": "Image Url"
   },
